@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saadonlineservice.netlify.app/sitemap.xml
